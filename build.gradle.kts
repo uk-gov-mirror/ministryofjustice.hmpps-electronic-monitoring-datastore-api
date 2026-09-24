@@ -37,8 +37,8 @@ dependencies {
 
   testImplementation("com.h2database:h2:2.5.250")
   testImplementation("org.springframework.boot:spring-boot-starter-data-jpa-test")
-  testImplementation("org.mockito:mockito-core:5.23.0")
-  testImplementation("org.mockito.kotlin:mockito-kotlin:6.3.0")
+  testImplementation("org.mockito:mockito-core:5.24.0")
+  testImplementation("org.mockito.kotlin:mockito-kotlin:6.4.0")
   testImplementation("org.testcontainers:postgresql:1.21.4")
   testImplementation("org.testcontainers:localstack:1.21.4")
   testImplementation(kotlin("test"))
